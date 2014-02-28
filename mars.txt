@@ -1,1 +1,3 @@
 Mars' orbital distance is 1.38AU
+Mars' diameter is 6,800 km.
+Phobos is Mars' largest moon
